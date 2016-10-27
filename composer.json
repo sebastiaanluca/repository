@@ -52,7 +52,8 @@
         "illuminate/config": "5.1.*|5.2.*|5.3.*"
     },
     "suggest": {
-        "illuminate/pagination": "Required to paginate the result set."
+        "illuminate/pagination": "Required to paginate the result set.",
+        "nesbot/carbon": "Required to use entities."
     },
     "autoload": {
         "psr-4": {
